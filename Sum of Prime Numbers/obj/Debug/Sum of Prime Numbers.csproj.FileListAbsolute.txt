@@ -1,0 +1,8 @@
+C:\Users\dell\OneDrive\Desktop\C# Programmes\Sum of Prime Numbers\bin\Debug\Sum of Prime Numbers.exe.config
+C:\Users\dell\OneDrive\Desktop\C# Programmes\Sum of Prime Numbers\bin\Debug\Sum of Prime Numbers.exe
+C:\Users\dell\OneDrive\Desktop\C# Programmes\Sum of Prime Numbers\bin\Debug\Sum of Prime Numbers.pdb
+C:\Users\dell\OneDrive\Desktop\C# Programmes\Sum of Prime Numbers\obj\Debug\Sum of Prime Numbers.csproj.AssemblyReference.cache
+C:\Users\dell\OneDrive\Desktop\C# Programmes\Sum of Prime Numbers\obj\Debug\Sum of Prime Numbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\dell\OneDrive\Desktop\C# Programmes\Sum of Prime Numbers\obj\Debug\Sum of Prime Numbers.csproj.CoreCompileInputs.cache
+C:\Users\dell\OneDrive\Desktop\C# Programmes\Sum of Prime Numbers\obj\Debug\Sum of Prime Numbers.exe
+C:\Users\dell\OneDrive\Desktop\C# Programmes\Sum of Prime Numbers\obj\Debug\Sum of Prime Numbers.pdb

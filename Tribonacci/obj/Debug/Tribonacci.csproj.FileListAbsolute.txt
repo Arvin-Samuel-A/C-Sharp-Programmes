@@ -1,0 +1,8 @@
+C:\Users\dell\OneDrive\Desktop\C# Programmes\Tribonacci\bin\Debug\Tribonacci.exe.config
+C:\Users\dell\OneDrive\Desktop\C# Programmes\Tribonacci\bin\Debug\Tribonacci.exe
+C:\Users\dell\OneDrive\Desktop\C# Programmes\Tribonacci\bin\Debug\Tribonacci.pdb
+C:\Users\dell\OneDrive\Desktop\C# Programmes\Tribonacci\obj\Debug\Tribonacci.csproj.AssemblyReference.cache
+C:\Users\dell\OneDrive\Desktop\C# Programmes\Tribonacci\obj\Debug\Tribonacci.csproj.SuggestedBindingRedirects.cache
+C:\Users\dell\OneDrive\Desktop\C# Programmes\Tribonacci\obj\Debug\Tribonacci.csproj.CoreCompileInputs.cache
+C:\Users\dell\OneDrive\Desktop\C# Programmes\Tribonacci\obj\Debug\Tribonacci.exe
+C:\Users\dell\OneDrive\Desktop\C# Programmes\Tribonacci\obj\Debug\Tribonacci.pdb
