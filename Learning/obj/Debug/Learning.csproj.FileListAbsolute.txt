@@ -1,8 +1,0 @@
-C:\Users\dell\OneDrive\Desktop\C# Programmes\Learning\obj\Debug\Learning.csproj.AssemblyReference.cache
-C:\Users\dell\OneDrive\Desktop\C# Programmes\Learning\obj\Debug\Learning.csproj.SuggestedBindingRedirects.cache
-C:\Users\dell\OneDrive\Desktop\C# Programmes\Learning\obj\Debug\Learning.csproj.CoreCompileInputs.cache
-C:\Users\dell\OneDrive\Desktop\C# Programmes\Learning\bin\Debug\Learning.exe.config
-C:\Users\dell\OneDrive\Desktop\C# Programmes\Learning\bin\Debug\Learning.exe
-C:\Users\dell\OneDrive\Desktop\C# Programmes\Learning\bin\Debug\Learning.pdb
-C:\Users\dell\OneDrive\Desktop\C# Programmes\Learning\obj\Debug\Learning.exe
-C:\Users\dell\OneDrive\Desktop\C# Programmes\Learning\obj\Debug\Learning.pdb
